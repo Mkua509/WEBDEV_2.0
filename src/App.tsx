@@ -5,7 +5,7 @@ function App() {
     <div className="flex items-center justify-center w-dvw h-dvh bg-[#D5E1EF]">
       <div className="flex flex-col items-center justify-center bg-white rounded-2xl p-4 w-min">
         <img
-          src="/image-qr-code.png"
+          src="image-qr-code.png"
           className=" min-w-[287px] h-[287px] rounded-2xl "
           alt="This is a qr code to Frontend mentor"
         />
