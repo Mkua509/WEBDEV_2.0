@@ -10,11 +10,11 @@ function App() {
           alt="This is a qr code to Frontend mentor"
         />
 
-        <h1 className="font-bold text-2xl text-center text-black mt-[28px]">
+        <h1 className="font-bold text-[22px] text-center text-black mt-[28px]">
           Improve your front-end skills by building projects
         </h1>
 
-        <h2 className="text-m text-grey mb-[40px] mt-[22px] text-center">
+        <h2 className="text-m text-[#6D747C] mb-[40px] mt-[22px] text-center">
           Scan the QR code to visit Frontend Mentor and take your coding skills
           to the next level
         </h2>
